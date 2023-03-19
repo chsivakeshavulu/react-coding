@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.userdetails-container{
+    width: 100%;
+    height:70vh;
+    display: flex;
+    flex-direction: column;
+    align-items:left;
+    margin-left:80px;
+    margin-top:1%;
+    
+}
+
+.userdetails-card{
+    padding: 3%;
+    width: 80%;
+    height: 42%;
+    border: 1px solid black;
+}
+
+.h4{
+    text-align:left;
+    margin-bottom:1%
+}
